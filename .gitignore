@@ -20,6 +20,7 @@ __pycache__/
 *.log
 *.pot
 *.pyc
+/server/.env
 __pycache__
 db.sqlite3
 
