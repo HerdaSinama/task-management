@@ -66,3 +66,5 @@ class User(AbstractUser):
                 
             
 
+class Noticiation(models.Model):
+    pass
