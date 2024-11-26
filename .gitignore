@@ -28,3 +28,5 @@ db.sqlite3
 *.local
 db.sqlite3
 openapi.json
+
+tasks.md
